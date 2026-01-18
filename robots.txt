@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://alsiniz.github.io/portfolio/sitemap.xml
+Sitemap: https://alsiniz.com/sitemap.xml
